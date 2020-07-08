@@ -1,3 +1,8 @@
+Use this software at your own risk; consult the DISCLAIMER for more information.
+
+The source code is published under MIT with OpenSSL and [TON Testnet Wallet Android](https://github.com/ton-blockchain/wallet-android) exception, the licenses is available [here](https://github.com/tongram/wallet-android/blob/master/LICENSE) and [here](https://github.com/tongram/wallet-android/blob/master/LICENSE.GPL-2.0).
+
+
 ## Test Gram Wallet (Android)
 
 This is the source code and build instructions for a TON Testnet Wallet implementation for Android.
